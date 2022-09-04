@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+
+bin/
+out/
+build/
+
+*.env
+*.jar
